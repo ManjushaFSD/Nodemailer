@@ -8,7 +8,7 @@ Send a mail to a friend using Nodemailer
 
 <br>
 
-:arrow_right:  Reciever mail screenshot
+:arrow_right:  Receiver mail screenshot
 
 ![Nodemailer screenshot1](https://user-images.githubusercontent.com/120376714/226627078-58a97538-92b9-4bff-8ead-00efbfffe6bd.png)
 
